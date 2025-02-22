@@ -26,7 +26,7 @@ This project is a Carbon Footprint Calculator, a command-line application design
 
     ```bash
     git clone https://github.com/rakshitha1353/carbon-footprint-calculator
-    cd carbon-footprint-calculator
+    
     ```
 
 2.  **Install dependencies:**
